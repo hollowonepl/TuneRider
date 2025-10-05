@@ -37,13 +37,16 @@ _check screenshots if curious before installing_
 _excutable is not signed so you need to use xattr_
 
 ===========================================================
+
 V0.3 vs, V0.2 changes:
 - fixed correct visual rendering in light/dark themes of
   the terminal (originally only tested against dark themes)
 - added pause/resume for the current track (SPACEBAR key)
 - added showing all available metadata (title/year/genre)
   for selected file (TAB key)
+
 ===========================================================
+
 V0.2 vs. V0.1 changes:
 - it can now continually play whole directories
 - it shows metadata of currently played tune 
@@ -51,4 +54,5 @@ V0.2 vs. V0.1 changes:
 - few bugs related to folder access (broken links,symlinks)
   fixed, should be more stable to navigate across system
   even if you have limited rights
+
 ===========================================================
