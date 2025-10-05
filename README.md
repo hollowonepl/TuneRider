@@ -23,7 +23,7 @@ then enjoy.
 You can try to contact me via hollowonepl@gmail.com or raise
 your issues on this github page 
 
-https://github.com/hollowonepl/TuneRider/
+https://github.com/hollowonepl/TuneRider/issues
 
 If message is interesting or valid points brought up, I may 
 consider responding.
